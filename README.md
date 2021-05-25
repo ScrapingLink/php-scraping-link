@@ -1,7 +1,7 @@
 # Package to use Scraping Link API from PHP
 
 [![Latest Version on Packagist](https://img.shields.io/packagist/v/scrapinglink/php-scraping-link.svg?style=flat-square)](https://packagist.org/packages/scrapinglink/php-scraping-link)
-[![GitHub Tests Action Status](https://img.shields.io/github/workflow/status/scrapinglink/php-scraping-link/run-tests?label=tests&style=flat-square)](https://github.com/scrapinglink/php-scraping-link/actions?query=workflow%3ATests+branch%3Amain)
+[![GitHub Tests Action Status](https://img.shields.io/github/workflow/status/scrapinglink/php-scraping-link/Tests?label=tests&style=flat-square)](https://github.com/scrapinglink/php-scraping-link/actions?query=workflow%3ATests+branch%3Amain)
 [![GitHub Code Style Action Status](https://img.shields.io/github/workflow/status/scrapinglink/php-scraping-link/Check%20&%20fix%20styling?label=code%20style&style=flat-square)](https://github.com/scrapinglink/php-scraping-link/actions?query=workflow%3A"Check+%26+fix+styling"+branch%3Amain)
 [![Total Downloads](https://img.shields.io/packagist/dt/scrapinglink/php-scraping-link.svg?style=flat-square)](https://packagist.org/packages/scrapinglink/php-scraping-link)
 

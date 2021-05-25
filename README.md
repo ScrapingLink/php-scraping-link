@@ -38,6 +38,15 @@ echo "Status code: " . $response->status();
 echo "Body: " . $response->body();
 ```
 
+### Scrape URL and get response with JS rendering
+
+```php
+$response = $scrapingLink->scrape('https://google.com', true);
+
+echo "Status code: " . $response->status();
+echo "Body: " . $response->body();
+```
+
 ## Testing
 
 ```bash
